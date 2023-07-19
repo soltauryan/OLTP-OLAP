@@ -1,4 +1,4 @@
--- EscapeHotel database
+-- EscapeHotel database by Ryan Soltau
 -- Originally Written: July 2023
 -----------------------------------------------------------
 -- Replace <data_path> with the full path to this file 
