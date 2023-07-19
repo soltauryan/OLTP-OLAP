@@ -1,0 +1,11 @@
+HotelID,Hotel_Name,Hotel_Address,City,state,ZipCode,Phone_Number,NumRooms
+100,EscapeHotel Miami,249 Toban Parkway,Miami,FL,89052,492-828-8479,50
+101,EscapeHotel New York,8683 Kropf Road,New York,NY,64772,591-585-6644,40
+102,EscapeHotel Minneapolis,459 Chinook Terrace,Minneapolis,MN,81519,589-388-7913,20
+103,EscapeHotel Denver,3987 Grayhawk Drive,Denver,CO,53933,444-818-7206,20
+104,EscapeHotel LA,97063 Talmadge Pass,LA,CA,76652,589-433-0235,100
+105,EscapeHotel Seattle,0 Shoshone Place,Seattle,WA,73791,874-221-5936,50
+106,EscapeHotel Portland,02 Clarendon Junction,Portland,OR,57945,891-122-0432,50
+107,EscapeHotel Dallas,47 Shasta Terrace,Dallas,TX,56826,901-712-1932,80
+108,EscapeHotel Atlanta,2 Di Loreto Lane,Atlanta,GA,67950,986-607-7783,40
+109,EscapeHotel Boston,2 Everett Road,Boston,MA,77498,940-974-1902,50

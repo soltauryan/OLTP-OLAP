@@ -1,0 +1,6 @@
+﻿PaymentTypeID,PaymentTypeName
+1,Credit
+2,Debit
+3,Cash
+4,Check
+5,Voucher

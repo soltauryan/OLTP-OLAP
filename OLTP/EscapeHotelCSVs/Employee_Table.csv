@@ -1,0 +1,101 @@
+EmployeeID,first_name,middle_name,last_name,Birtdate,gender,Address,City,StateID,PhoneNumber,Email,Hired_Date,PositionID
+10000,Dave,Pryce,Joplin,9/26/1999,Male,9002 Anzinger Center,San Francisco,CA,415-632-6902,pjoplin0@apple.com,9/3/2022,4
+10001,Tiphani,Andrea,Bowne,6/10/1990,Female,257 Northridge Pass,Miami,FL,786-123-6847,abowne1@bloglovin.com,4/24/2023,10
+10002,Walden,Gilbert,Cuerdall,5/12/1996,Male,70 Basil Center,Pasadena,CA,818-279-9681,gcuerdall2@prnewswire.com,11/6/2022,6
+10003,Dominik,Sigfrid,Dreinan,2/26/1990,Male,08222 Sullivan Hill,Petaluma,CA,707-348-6988,sdreinan3@delicious.com,7/2/2023,4
+10004,Therine,Suzette,Duckinfield,1/8/1999,Female,9 Park Meadow Hill,Brooklyn,NY,718-782-7367,sduckinfield4@meetup.com,5/19/2023,6
+10005,Regine,Reinhard,Leghorn,9/20/1987,Bigender,354 Spohn Alley,Littleton,CO,303-422-4023,rleghorn5@fastcompany.com,10/5/2022,4
+10006,Catlaina,Marnia,Dymidowski,8/15/1981,Female,8 Bay Place,Trenton,NJ,609-747-0473,mdymidowski6@nbcnews.com,1/17/2022,7
+10007,Jacquette,Kerrin,Dakin,4/19/2000,Female,76495 Forest Park,Jamaica,NY,212-738-4123,kdakin7@blogger.com,5/20/2022,10
+10008,Tony,Savina,Tatlow,6/23/1988,Female,55059 Pleasure Drive,Indianapolis,IN,317-720-0391,statlow8@eepurl.com,2/20/2023,8
+10009,Jennilee,Arlene,Elletson,10/13/1984,Female,14 Jackson Court,Virginia Beach,VA,757-236-6503,aelletson9@mac.com,2/6/2022,5
+10010,Emalee,Trude,Gircke,1/19/1983,Female,0558 Warner Place,Lawrenceville,GA,404-640-9001,tgirckea@yahoo.co.jp,5/4/2023,10
+10011,Bartholomeo,Evelyn,Stannion,7/22/1981,Male,6873 Gina Plaza,San Antonio,TX,210-612-0237,estannionb@twitter.com,3/29/2023,2
+10012,Colver,Pierre,Joseland,8/7/1995,Male,32650 Norway Maple Avenue,Mountain View,CA,650-447-9522,pjoselandc@eepurl.com,5/19/2022,8
+10013,Betteanne,Aveline,Thicking,6/18/1995,Female,19 Garrison Trail,Jamaica,NY,917-491-0275,athickingd@free.fr,7/10/2023,5
+10014,Simona,Ediva,Robottom,11/22/1997,Female,78 Kim Point,Albany,NY,518-146-4205,erobottome@techcrunch.com,12/2/2022,7
+10015,Lorenza,Cristabel,Fischer,8/7/1998,Female,82 Fisk Parkway,Rochester,NY,585-503-5125,cfischerf@google.co.uk,7/27/2022,7
+10016,Dore,Buffy,Dubock,11/29/1990,Female,679 Browning Place,Denver,CO,719-198-1755,bdubockg@wufoo.com,7/29/2022,5
+10017,Antonio,Kelsey,Banaszczyk,7/7/1985,Male,108 Pierstorff Park,New Orleans,LA,504-217-4456,kbanaszczykh@comsenz.com,8/28/2022,5
+10018,Cathi,Wilone,Scoyles,3/4/1984,Female,3 Brentwood Crossing,Peoria,IL,309-125-0214,wscoylesi@imdb.com,1/14/2023,2
+10019,Halette,Jenelle,Kupker,3/30/1995,Agender,65255 Golden Leaf Circle,Saint Louis,MO,314-585-0922,jkupkerj@geocities.com,4/18/2023,6
+10020,Arda,Janetta,Whymark,7/30/1988,Female,6701 La Follette Street,Saint Paul,MN,612-378-6671,jwhymarkk@cnet.com,1/1/2022,3
+10021,Anselma,Audy,De Giorgio,5/22/1988,Female,010 South Point,Hialeah,FL,786-832-8962,adegiorgiol@amazon.com,6/26/2022,4
+10022,Rayna,Vanny,Croci,3/20/1990,Female,0059 Fieldstone Park,Boston,MA,617-131-0818,vcrocim@youtube.com,9/29/2022,1
+10023,Rory,Barry,Urlin,5/2/1990,Female,857 Weeping Birch Hill,Houston,TX,713-494-1819,burlinn@cdc.gov,9/17/2022,10
+10024,Casey,Cort,Cairney,5/22/1999,Male,38123 Forest Avenue,Baltimore,MD,410-978-0801,ccairneyo@people.com.cn,4/14/2022,2
+10025,Sibyl,Xylina,St. Pierre,6/16/1997,Agender,11 Scoville Terrace,San Bernardino,CA,909-264-9763,xstpierrep@nationalgeographic.com,3/15/2022,6
+10026,Brianna,Chelsea,Lazer,11/29/1998,Female,61 Emmet Terrace,Des Moines,IA,515-391-3966,clazerq@nps.gov,2/3/2023,10
+10027,Perla,Zandra,Gaskill,4/1/1994,Female,81 Drewry Trail,Wichita,KS,316-229-1571,zgaskillr@uol.com.br,1/20/2022,8
+10028,Benton,Wendall,Ivashkin,8/6/1988,Agender,524 Scofield Place,Los Angeles,CA,310-871-4796,wivashkins@gnu.org,8/21/2022,10
+10029,Debra,Deborah,Foyle,10/30/1988,Female,15 Debs Parkway,Salem,OR,503-431-8209,dfoylet@europa.eu,6/9/2022,3
+10030,Elly,Matti,Parsonage,4/28/1996,Female,2 Schlimgen Place,Worcester,MA,774-183-5169,mparsonageu@ask.com,2/28/2023,7
+10031,Reinhard,Boycie,Cassells,8/9/1996,Male,35 Declaration Terrace,Dayton,OH,937-800-4239,bcassellsv@arizona.edu,9/11/2022,10
+10032,Aaren,Willi,McIntosh,4/3/1995,Female,78413 Talisman Crossing,Dallas,TX,469-892-9074,wmcintoshw@prweb.com,3/29/2023,8
+10033,Umberto,Locke,Synan,9/13/1993,Non-binary,018 Amoth Court,Des Moines,IA,515-710-1978,lsynanx@bbc.co.uk,2/27/2023,3
+10034,Sonnie,Ingrid,Weedenburg,1/2/1981,Female,3106 Anniversary Road,Tulsa,OK,918-142-8706,iweedenburgy@google.de,8/25/2022,6
+10035,Shermie,Lyn,Mc Trusty,10/19/1980,Male,079 Killdeer Point,Stockton,CA,209-638-1768,lmctrustyz@bloomberg.com,8/8/2022,3
+10036,Anselm,Prescott,Pauluzzi,10/9/1985,Male,7 West Road,Richmond,VA,804-535-1343,ppauluzzi10@exblog.jp,1/16/2022,2
+10037,Hurlee,Lenci,Winckworth,8/27/1999,Male,22923 Bonner Avenue,Mobile,AL,251-920-4043,lwinckworth11@theatlantic.com,5/10/2022,3
+10038,Mikaela,Demeter,Lakes,7/30/1981,Female,24 Maywood Point,Dallas,TX,214-164-8975,dlakes12@bandcamp.com,7/4/2023,4
+10039,Marius,Wain,Boltwood,4/15/1989,Male,063 Shoshone Park,Boston,MA,617-986-1727,wboltwood13@cbc.ca,12/12/2022,3
+10040,Krissie,Lori,Hebditch,6/21/1983,Female,16663 Melrose Court,Des Moines,IA,515-975-8228,lhebditch14@virginia.edu,3/7/2022,2
+10041,Cosme,Aluino,Lawful,2/10/1994,Male,221 Dorton Crossing,Montgomery,AL,334-794-3965,alawful15@msn.com,3/17/2023,9
+10042,Regan,Clovis,Berrie,8/8/1996,Female,09 Sachs Place,Des Moines,IA,515-873-1518,cberrie16@prweb.com,4/6/2023,8
+10043,Maddalena,Traci,Guyonneau,2/26/1993,Female,899 Westport Place,Hartford,CT,860-418-7102,tguyonneau17@mail.ru,6/15/2022,8
+10044,Van,Justinian,Danielski,5/5/1982,Male,89 Bay Place,Los Angeles,CA,213-807-6665,jdanielski18@intel.com,11/28/2022,10
+10045,Frannie,Kelbee,Mattioli,10/15/1990,Male,98288 Service Parkway,Tampa,FL,813-405-8967,kmattioli19@networksolutions.com,3/14/2022,2
+10046,Randa,Daria,Talman,10/14/1997,Female,7439 Green Ridge Road,Indianapolis,IN,317-154-3640,dtalman1a@intel.com,6/15/2023,5
+10047,Urbanus,Nickie,Smeath,5/7/1991,Male,49 Melody Junction,Santa Barbara,CA,805-103-8924,nsmeath1b@tripod.com,12/1/2022,3
+10048,Trey,Thayne,Grahame,3/2/1990,Male,8862 Mayer Lane,Schaumburg,IL,847-133-2884,tgrahame1c@mit.edu,9/13/2022,10
+10049,Chanda,Simonette,Guilloneau,12/3/1987,Female,165 Blackbird Park,Stockton,CA,209-474-9329,sguilloneau1d@bloglines.com,2/12/2023,9
+10050,Melicent,Norean,Vatcher,3/15/1981,Female,83 Fairfield Center,Silver Spring,MD,240-846-6889,nvatcher1e@sfgate.com,6/15/2023,3
+10051,Charmane,Aharon,Croizier,4/7/1991,Genderqueer,3129 Nobel Way,El Paso,TX,915-174-9153,acroizier1f@furl.net,8/27/2022,8
+10052,Sally,Jodee,Hurlestone,12/17/1990,Female,07 Canary Junction,Saint Louis,MO,314-471-9940,jhurlestone1g@irs.gov,3/2/2023,6
+10053,Cyril,Worthington,Tolomelli,8/10/1989,Male,9 Daystar Avenue,Gary,IN,219-559-4788,wtolomelli1h@free.fr,9/20/2022,1
+10054,Hamilton,Doyle,Tomashov,11/13/1989,Male,83 Cardinal Hill,Conroe,TX,936-414-6725,dtomashov1i@fema.gov,4/28/2022,10
+10055,Terra,Winona,Benditt,12/1/1992,Female,58258 Corben Court,Fort Worth,TX,817-355-5515,wbenditt1j@time.com,1/3/2022,3
+10056,Audrey,Raine,Worsfield,10/2/1994,Female,82 Leroy Parkway,Pittsburgh,PA,412-329-9879,rworsfield1k@walmart.com,5/9/2022,5
+10057,Jaine,Yoshi,Golda,8/17/1986,Female,3789 Johnson Terrace,Fort Pierce,FL,772-387-8924,ygolda1l@instagram.com,2/15/2023,9
+10058,Morlee,Hadrian,Espinoy,7/14/1996,Male,31965 Nobel Park,Young America,MN,952-964-9924,hespinoy1m@ox.ac.uk,3/27/2022,9
+10059,Zea,Anita,Handover,5/30/1997,Female,98761 Fallview Terrace,Saginaw,MI,989-553-7975,ahandover1n@japanpost.jp,8/26/2022,1
+10060,Kane,Sylvan,Darlington,7/3/1994,Male,9 Lukken Drive,Philadelphia,PA,215-175-6780,sdarlington1o@wiley.com,5/6/2022,7
+10061,Read,Wit,Mouncey,5/23/1997,Male,86715 Debs Point,San Francisco,CA,415-949-3040,wmouncey1p@marriott.com,1/30/2022,4
+10062,Nikaniki,Drona,Toplis,1/18/1991,Female,957 Comanche Street,Saint Louis,MO,314-205-6339,dtoplis1q@cnn.com,4/28/2023,5
+10063,Kalil,Pedro,Wandrey,7/19/1984,Male,24846 La Follette Pass,Lexington,KY,859-489-6595,pwandrey1r@e-recht24.de,7/29/2022,1
+10064,Cyndia,Anet,Hacun,2/5/1984,Female,13 Veith Terrace,Montgomery,AL,334-586-3724,ahacun1s@w3.org,8/2/2022,3
+10065,Zonda,Tybie,Starford,7/14/1986,Female,4 Judy Center,Bethesda,MD,301-177-3949,tstarford1t@plala.or.jp,4/16/2022,4
+10066,Ailyn,Celina,Basant,12/2/1996,Female,0590 Bartelt Road,Bronx,NY,718-337-4984,cbasant1u@ca.gov,1/17/2023,10
+10067,Byrann,Rick,Coultar,12/24/1983,Male,1118 Kings Road,Mesa,AZ,602-353-0586,rcoultar1v@naver.com,3/28/2022,6
+10068,Humbert,Lynn,Geldert,8/18/1988,Male,5285 Bartillon Parkway,Pittsburgh,PA,412-349-1762,lgeldert1w@sfgate.com,11/23/2022,8
+10069,Rachelle,Marja,Vinker,11/15/1995,Genderfluid,65685 Fallview Parkway,Dallas,TX,214-703-7124,mvinker1x@ustream.tv,1/3/2022,4
+10070,Drona,Joanne,O'Fogarty,12/20/1994,Female,07063 Sachtjen Center,Boston,MA,781-236-3701,jofogarty1y@posterous.com,7/7/2023,10
+10071,Manny,Franklyn,Di Claudio,9/20/1984,Male,722 Portage Crossing,San Francisco,CA,415-554-8207,fdiclaudio1z@i2i.jp,7/26/2022,3
+10072,Paulo,Andrei,Duchan,7/26/1992,Genderqueer,72366 Raven Avenue,Salt Lake City,UT,801-155-9642,aduchan20@hp.com,5/12/2022,10
+10073,Raimund,Keelby,McGiffin,5/30/1989,Male,96 Morrow Street,New Orleans,LA,504-170-2893,kmcgiffin21@nydailynews.com,12/14/2022,3
+10074,Garnet,Ninnetta,Hildrew,4/29/1986,Female,2 Caliangt Street,Lincoln,NE,402-213-3485,nhildrew22@patch.com,1/19/2023,4
+10075,Ignacio,Ulrick,Kimber,2/21/1986,Bigender,8 2nd Trail,Waterbury,CT,203-711-5912,ukimber23@aol.com,2/24/2022,1
+10076,Konstantine,Gardener,Jenney,2/5/1986,Male,0 Calypso Hill,Fort Smith,AR,479-734-6332,gjenney24@hao123.com,12/8/2022,10
+10077,Alyosha,Christoforo,Wickie,5/2/2000,Male,0 Saint Paul Place,Omaha,NE,402-391-0525,cwickie25@gravatar.com,6/12/2023,6
+10078,Maribel,Brunhilda,Haseman,7/29/1987,Female,674 Cascade Parkway,Washington,DC,202-884-7418,bhaseman26@prlog.org,11/1/2022,4
+10079,Lucias,Kerwin,Skyrme,1/17/1997,Male,69 Eagle Crest Plaza,Irvine,CA,714-324-0067,kskyrme27@51.la,1/19/2022,2
+10080,Isak,Tabbie,Gadeaux,1/22/1995,Male,7524 Pearson Court,Boise,ID,208-257-4886,tgadeaux28@squarespace.com,4/13/2023,1
+10081,Kevyn,Torey,Ziems,2/1/1981,Female,97049 Bayside Parkway,San Diego,CA,619-224-4780,tziems29@constantcontact.com,3/26/2022,1
+10082,Kort,Fanya,Davison,4/27/1982,Genderqueer,9901 Eagan Point,Cincinnati,OH,513-892-9838,fdavison2a@simplemachines.org,9/18/2022,6
+10083,Dina,Edita,Luparti,10/3/1981,Female,83 Village Green Street,Washington,DC,703-373-1700,eluparti2b@mediafire.com,1/21/2022,2
+10084,Clarine,Colline,Salerg,3/20/1982,Female,555 Logan Point,Denton,TX,940-210-4840,csalerg2c@csmonitor.com,4/8/2022,1
+10085,Rayner,Stephanus,Burnand,1/1/1984,Male,451 Fairfield Park,Tucson,AZ,520-849-0671,sburnand2d@livejournal.com,11/30/2022,8
+10086,Junie,Verna,MacKegg,8/13/1994,Female,896 Spaight Crossing,Arlington,TX,972-924-7460,vmackegg2e@sourceforge.net,7/21/2022,8
+10087,Elliot,Greg,Skains,8/7/1994,Male,97926 Miller Plaza,Topeka,KS,785-564-0183,gskains2f@elpais.com,6/15/2023,9
+10088,Garland,Gilbertina,McPolin,12/7/1991,Female,69020 Bonner Park,Phoenix,AZ,602-223-6821,gmcpolin2g@dropbox.com,2/1/2022,1
+10089,Tania,Fidelity,Arnoll,5/28/1996,Female,8485 Clove Pass,Washington,DC,202-775-5356,farnoll2h@salon.com,5/26/2023,8
+10090,Helen,Sande,Corradetti,9/21/1981,Female,1 Derek Road,Richmond,VA,804-822-5998,scorradetti2i@live.com,3/11/2022,9
+10091,Alexander,Filmer,Harriot,1/27/1983,Male,1714 Spenser Place,Washington,DC,202-195-8759,fharriot2j@biblegateway.com,5/27/2022,3
+10092,Lindon,Trenton,Portwain,5/26/1993,Male,28 Monica Avenue,Houston,TX,713-385-9985,tportwain2k@kickstarter.com,3/20/2023,2
+10093,Alina,Aurlie,Finlan,7/8/1986,Female,86 Aberg Point,Tucson,AZ,520-892-8973,afinlan2l@cdc.gov,7/2/2023,5
+10094,Friederike,Almeda,Allcott,5/17/1983,Female,3 Longview Plaza,Gainesville,GA,678-208-0316,aallcott2m@cargocollective.com,7/6/2022,8
+10095,Mahalia,Matti,Orwell,9/16/1997,Female,4 Mendota Point,Hialeah,FL,305-523-2991,morwell2n@networksolutions.com,1/5/2023,7
+10096,Giovanni,Gran,Ormond,5/9/1994,Male,26 Packers Drive,Memphis,TN,901-508-7193,gormond2o@foxnews.com,4/28/2023,2
+10097,Jdavie,Marv,Biskupski,7/9/1999,Male,777 Morrow Place,Sacramento,CA,916-129-9434,mbiskupski2p@tamu.edu,6/23/2023,10
+10098,Nancee,Juanita,Swendell,11/1/1988,Female,47 Farwell Park,Los Angeles,CA,213-710-1155,jswendell2q@webs.com,2/14/2022,9
+10099,Umberto,Ave,O'Brogan,5/24/1982,Male,08 Butterfield Court,Atlanta,GA,770-617-1852,aobrogan2r@mail.ru,6/25/2022,7
